@@ -1,0 +1,1 @@
+python run_benchmark.py --model_name gpt-3.5-turbo-1106 --api_base https://api.chatanywhere.tech/v1 --template_name role_profile_history --test_name thinking --test_ratio 0.01

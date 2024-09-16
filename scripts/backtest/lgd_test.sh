@@ -1,0 +1,1 @@
+python run_backtest.py --model_name gpt-3.5-turbo-0125 --api_key sk-mFB7UssDEsa0xBlbembt9u4d4I8i5DdnJIDDJaGen8FwDqO2 --api_base https://api.chatanywhere.tech/v1  --test_answers_path output/test_experiments  --max_concurrency 4 --backtest_num 10

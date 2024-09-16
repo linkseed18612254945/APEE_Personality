@@ -1,0 +1,352 @@
+{
+  "1": {
+    "question": "At a party do you:\nA.Interact with many, including strangers\nB.Interact with a few, known to you",
+    "A": "E",
+    "B": "I"
+  },
+  "2": {
+    "question": "Are you more:\nA.Realistic than speculative\nB.Speculative than realistic",
+    "A": "S",
+    "B": "N"
+  },
+  "3": {
+    "question": "Is it worse to:\nA.Have your “head in the clouds”\nB.Be “in a rut”",
+    "A": "S",
+    "B": "N"
+  },
+  "4": {
+    "question": "Are you more impressed by:\nA.Principles\nB.Emotions",
+    "A": "T",
+    "B": "F"
+  },
+  "5": {
+    "question": "Are more drawn toward the:\nA.Convincing\nB.Touching",
+    "A": "T",
+    "B": "F"
+  },
+  "6": {
+    "question": "Do you prefer to work:\nA.To deadlines\nB.Just “whenever”",
+    "A": "J",
+    "B": "P"
+  },
+  "7": {
+    "question": "Do you tend to choose:\nA.Rather carefully\nB.Somewhat impulsively",
+    "A": "J",
+    "B": "P"
+  },
+  "8": {
+    "question": "At parties do you:\nA.Stay late, with increasing energy\nB.Leave early with decreased energy",
+    "A": "E",
+    "B": "I"
+  },
+  "9": {
+    "question": "Are you more attracted to:\nA.Sensible people\nB.Imaginative people",
+    "A": "S",
+    "B": "N"
+  },
+  "10": {
+    "question": "Are you more interested in:\nA.What is actual\nB.What is possible",
+    "A": "S",
+    "B": "N"
+  },
+  "11": {
+    "question": "In judging others are you more swayed by:\nA.Laws than circumstances\nB.Circumstances than laws",
+    "A": "T",
+    "B": "F"
+  },
+  "12": {
+    "question": "In approaching others is your inclination to be somewhat:\nA.Objective\nB.Personal",
+    "A": "T",
+    "B": "F"
+  },
+  "13": {
+    "question": "Are you more:\nA.Punctual\nB.Leisurely",
+    "A": "J",
+    "B": "P"
+  },
+  "14": {
+    "question": "Does it bother you more having things:\nA.Incomplete\nB.Completed",
+    "A": "J",
+    "B": "P"
+  },
+  "15": {
+    "question": "In your social groups do you:\nA.Keep abreast of other’s happenings\nB.Get behind on the news",
+    "A": "E",
+    "B": "I"
+  },
+  "16": {
+    "question": "In doing ordinary things are you more likely to:\nA.Do it the usual way\nB.Do it your own way",
+    "A": "S",
+    "B": "N"
+  },
+  "17": {
+    "question": "Writers should:\nA.Say what they mean and mean what they say\nB.Express things more by use of analogy",
+    "A": "S",
+    "B": "N"
+  },
+  "18": {
+    "question": "Which appeals to you more:\nA.Consistency of thought\nB.Harmonious human relationships",
+    "A": "T",
+    "B": "F"
+  },
+  "19": {
+    "question": "Are you more comfortable in making:\nA.Logical judgments\nB.Value judgments",
+    "A": "T",
+    "B": "F"
+  },
+  "20": {
+    "question": "Do you want things:\nA.Settled and decided\nB.Unsettled and undecided",
+    "A": "J",
+    "B": "P"
+  },
+  "21": {
+    "question": "Would you say you are more:\nA.Serious and determined\nB.Easy-going",
+    "A": "J",
+    "B": "P"
+  },
+  "22": {
+    "question": "In phoning do you:\nA.Rarely question that it will all be said\nB.Rehearse what you’ll say",
+    "A": "E",
+    "B": "I"
+  },
+  "23": {
+    "question": "Facts:\nA.Speak for themselves\nB.Illustrate principles",
+    "A": "S",
+    "B": "N"
+  },
+  "24": {
+    "question": "Are visionaries:\nA.somewhat annoying\nB.rather fascinating",
+    "A": "S",
+    "B": "N"
+  },
+  "25": {
+    "question": "Are you more often:\nA.a cool-headed person\nB.a warm-hearted person",
+    "A": "T",
+    "B": "F"
+  },
+  "26": {
+    "question": "Is it worse to be:\nA.unjust\nB.merciless",
+    "A": "T",
+    "B": "F"
+  },
+  "27": {
+    "question": "Should one usually let events occur:\nA.by careful selection and choice\nB.randomly and by chance",
+    "A": "J",
+    "B": "P"
+  },
+  "28": {
+    "question": "Do you feel better about:\nA.having purchased\nB.having the option to buy",
+    "A": "J",
+    "B": "P"
+  },
+  "29": {
+    "question": "In company do you:\nA.initiate conversation\nB.wait to be approached",
+    "A": "E",
+    "B": "I"
+  },
+  "30": {
+    "question": "Common sense is:\nA.rarely questionable\nB.frequently questionable",
+    "A": "S",
+    "B": "N"
+  },
+  "31": {
+    "question": "Children often do not:\nA.make themselves useful enough\nB.exercise their fantasy enough",
+    "A": "S",
+    "B": "N"
+  },
+  "32": {
+    "question": "In making decisions do you feel more comfortable with:\nA.standards\nB.feelings",
+    "A": "T",
+    "B": "F"
+  },
+  "33": {
+    "question": "Are you more:\nA.firm than gentle\nB.gentle than firm",
+    "A": "T",
+    "B": "F"
+  },
+  "34": {
+    "question": "Which is more admirable:\nA.the ability to organize and be methodical\nB.the ability to adapt and make do",
+    "A": "J",
+    "B": "P"
+  },
+  "35": {
+    "question": "Do you put more value on:\nA.infinite\nB.open-minded",
+    "A": "J",
+    "B": "P"
+  },
+  "36": {
+    "question": "Does new and non-routine interaction:\nA.stimulate and energize you\nB.tax your reserves",
+    "A": "E",
+    "B": "I"
+  },
+  "37": {
+    "question": "Are you more frequently:\nA.a practical sort of person\nB.a fanciful sort of person",
+    "A": "S",
+    "B": "N"
+  },
+  "38": {
+    "question": "Are you more likely to:\nA.see how others are useful\nB.see how others see",
+    "A": "S",
+    "B": "N"
+  },
+  "39": {
+    "question": "Which is more satisfying:\nA.to discuss an issue thoroughly\nB.to arrive at agreement on an issue",
+    "A": "T",
+    "B": "F"
+  },
+  "40": {
+    "question": "Which rules you more:\nA.your head\nB.your heart",
+    "A": "T",
+    "B": "F"
+  },
+  "41": {
+    "question": "Are you more comfortable with work that:\nA.contracted\nB.done on a casual basis",
+    "A": "J",
+    "B": "P"
+  },
+  "42": {
+    "question": "Do you tend to look for:\nA.the orderly\nB.whatever turns up",
+    "A": "J",
+    "B": "P"
+  },
+  "43": {
+    "question": "Do you prefer:\nA.many friends with brief contact\nB.a few friends with more lengthy contact",
+    "A": "E",
+    "B": "I"
+  },
+  "44": {
+    "question": "Do you go more by:\nA.facts\nB.principles",
+    "A": "S",
+    "B": "N"
+  },
+  "45": {
+    "question": "Are you more interested in:\nA.production and distribution\nB.design and research",
+    "A": "S",
+    "B": "N"
+  },
+  "46": {
+    "question": "Which is more of a compliment:\nA.“There is a very logical person.”\nB.“There is a very sentimental person.”",
+    "A": "T",
+    "B": "F"
+  },
+  "47": {
+    "question": "Do you value in yourself more that you are:\nA.unwavering\nB.devoted",
+    "A": "T",
+    "B": "F"
+  },
+  "48": {
+    "question": "Do you more often prefer the:\nA.final and unalterable statement\nB.tentative and preliminary statement",
+    "A": "J",
+    "B": "P"
+  },
+  "49": {
+    "question": "Are you more comfortable:\nA.after a decision\nB.before a decision",
+    "A": "J",
+    "B": "P"
+  },
+  "50": {
+    "question": "Do you:\nA.speak easily and at length with strangers\nB.find little to say to strangers",
+    "A": "E",
+    "B": "I"
+  },
+  "51": {
+    "question": "Are you more likely to trust your:\nA.experience\nB.hunch",
+    "A": "S",
+    "B": "N"
+  },
+  "52": {
+    "question": "Do you feel:\nA.more practical than ingenious\nB.more ingenious than practical",
+    "A": "S",
+    "B": "N"
+  },
+  "53": {
+    "question": "Which person is more to be complimented – one of:\nA.clear reason\nB.strong feeling",
+    "A": "T",
+    "B": "F"
+  },
+  "54": {
+    "question": "Are you inclined more to be:\nA.fair-minded\nB.sympathetic",
+    "A": "T",
+    "B": "F"
+  },
+  "55": {
+    "question": "Is it preferable mostly to:\nA.make sure things are arranged\nB.just let things happen",
+    "A": "J",
+    "B": "P"
+  },
+  "56": {
+    "question": "In relationships should most things be:\nA.re-negotiable\nB.random and circumstantial",
+    "A": "J",
+    "B": "P"
+  },
+  "57": {
+    "question": "When the phone rings do you:\nA.hasten to get to it first\nB.hope someone else will answer",
+    "A": "E",
+    "B": "I"
+  },
+  "58": {
+    "question": "Do you prize more in yourself:\nA.a strong sense of reality\nB.a vivid imagination",
+    "A": "S",
+    "B": "N"
+  },
+  "59": {
+    "question": "Are you drawn more to:\nA.fundamentals\nB.overtones",
+    "A": "S",
+    "B": "N"
+  },
+  "60": {
+    "question": "Which seems the greater error:\nA.to be too passionate\nB.to be too objective",
+    "A": "T",
+    "B": "F"
+  },
+  "61": {
+    "question": "Do you see yourself as basically:\nA.hard-headed\nB.soft-hearted",
+    "A": "T",
+    "B": "F"
+  },
+  "62": {
+    "question": "Which situation appeals to you more:\nA.the structured and scheduled\nB.the unstructured and unscheduled",
+    "A": "J",
+    "B": "P"
+  },
+  "63": {
+    "question": "Are you a person that is more:\nA.routinized than whimsical\nB.whimsical than routinized",
+    "A": "J",
+    "B": "P"
+  },
+  "64": {
+    "question": "Are you more inclined to be:\nA.easy to approach\nB.somewhat reserved",
+    "A": "E",
+    "B": "I"
+  },
+  "65": {
+    "question": "In writings do you prefer:\nA.the more literal\nB.the more figurative",
+    "A": "S",
+    "B": "N"
+  },
+  "66": {
+    "question": "Is it harder for you to:\nA.identify with others\nB.utilize others",
+    "A": "S",
+    "B": "N"
+  },
+  "67": {
+    "question": "Which do you wish more for yourself:\nA.clarity of reason\nB.strength of compassion",
+    "A": "T",
+    "B": "F"
+  },
+  "68": {
+    "question": "Which is the greater fault:\nA.being indiscriminate\nB.being critical",
+    "A": "T",
+    "B": "F"
+  },
+  "69": {
+    "question": "Do you prefer the:\nA.planned event\nB.unplanned event",
+    "A": "J",
+    "B": "P"
+  },
+  "70": {
+    "question": "Do you tend to be more:\nA.deliberate than spontaneous\nB.spontaneous than deliberate",
+    "A": "J",
+    "B": "P"
+  }
+}

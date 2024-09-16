@@ -1,0 +1,1 @@
+python run_benchmark.py --temperature 0.1 --model_name gpt-3.5-turbo-0125 --api_base https://api.chatanywhere.tech/v1 --api_key sk-mFB7UssDEsa0xBlbembt9u4d4I8i5DdnJIDDJaGen8FwDqO2 --template_name role_profile_history --test_name questionnaire --test_ratio 1 --max_concurrency 8 --testing_role_nums 100000

@@ -1,0 +1,13 @@
+{
+  "Facilitator": "Guides the discussion, ensuring inclusive participation and topic adherence.",
+  "Idea Generator": "Contributes new and creative ideas or solutions.",
+  "Information Provider": "Offers factual information, data, or specific knowledge relevant to the topic.",
+  "Opinion Giver": "Shares personal viewpoints and perspectives on the issue.",
+  "Evaluator/Critic": "Analyzes and critiques ideas or suggestions, aiding in refinement.",
+  "Summarizer": "Periodically summarizes the discussion to keep track of progress and decisions.",
+  "Supporter/Encourager": "Provides support to other members' ideas and contributions, fostering a positive environment.",
+  "Harmonizer": "Mediates conflicts within the group to maintain harmony.",
+  "Timekeeper": "Monitors the discussion’s adherence to time limits (not always present).",
+  "Recorder": "Notes down key points, ideas, or decisions (less common in LGDs).",
+  "Observer": "You chose to continue to observe, not to speak this time"
+}

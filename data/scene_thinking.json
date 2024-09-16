@@ -1,0 +1,1260 @@
+[
+  {
+    "Name": "Organizing a Community Festival",
+    "Context": "Participants are divided into teams to handle various aspects of organizing a large community festival, including theme selection, budget management, vendor coordination, entertainment planning, and publicity.",
+    "Tasks": {
+      "Theme Selection and Ideation": {
+        "Sensing Approach": "Focus on practical and historically successful themes, using past data and concrete examples.",
+        "Intuitive Approach": "Brainstorm innovative and abstract themes, emphasizing future possibilities and creative ideas."
+      },
+      "Budget Management and Resource Allocation": {
+        "Thinking Approach": "Prioritize cost-effective solutions based on logical analysis and objective criteria.",
+        "Feeling Approach": "Consider the impact on community members and local businesses, focusing on equitable distribution of resources."
+      },
+      "Vendor Coordination and Community Engagement": {
+        "Extraverted Actions": "Actively reach out to vendors, engage in networking, and lead group discussions.",
+        "Introverted Actions": "Focus on written communication, detailed planning, and one-on-one interactions."
+      },
+      "Entertainment and Activity Planning": {
+        "Judging Approach": "Establish a detailed plan with a set schedule, predefined activities, and clear deadlines.",
+        "Perceiving Approach": "Allow for flexibility, be open to last-minute changes, and encourage spontaneous ideas."
+      },
+      "Publicity and Outreach": {
+        "Description": "Devise a strategy that includes both traditional and innovative methods, appeals to a diverse audience, and balances practicality, creativity, logical and empathetic messaging, energetic outreach with thoughtful planning, and a structured yet adaptable campaign."
+      }
+    },
+    "Objective": "Participants are assigned roles that align with or challenge their MBTI preferences, allowing them to explore their natural tendencies and adapt to different styles. The task requires collaboration and understanding of different personality types."
+  },
+  {
+    "Name": "Tech Startup Launch",
+    "Context": "Participants form teams to simulate launching a tech startup, involving product development, investor pitching, marketing, and team management.",
+    "Tasks": {
+      "Product Development": {
+        "Sensing Approach": "Focus on building a practical and user-friendly product based on market research.",
+        "Intuitive Approach": "Innovate a cutting-edge product with new technologies and visionary concepts."
+      },
+      "Investor Pitch": {
+        "Thinking Approach": "Emphasize on the financial prospects and logical arguments for investment.",
+        "Feeling Approach": "Highlight the societal impact and ethical considerations of the startup."
+      },
+      "Marketing Strategy": {
+        "Extraverted Actions": "Implement aggressive marketing campaigns and public relations activities.",
+        "Introverted Actions": "Concentrate on digital marketing and data-driven strategies."
+      },
+      "Team Management": {
+        "Judging Approach": "Establish structured roles, clear objectives, and deadline-driven tasks.",
+        "Perceiving Approach": "Adopt a flexible, adaptive approach to team roles and project management."
+      }
+    }
+  },
+  {
+    "Name": "Emergency Response Drill",
+    "Context": "Simulating a large-scale emergency situation (like a natural disaster) requiring crisis management, resource allocation, rescue operations, and public communication.",
+    "Tasks": {
+      "Crisis Management": {
+        "Thinking Approach": "Implement logical and efficient crisis response strategies.",
+        "Feeling Approach": "Focus on addressing the emotional and psychological needs of those affected."
+      },
+      "Resource Allocation": {
+        "Sensing Approach": "Distribute resources based on current needs and available data.",
+        "Intuitive Approach": "Plan for long-term resource needs and potential future scenarios."
+      },
+      "Rescue Operations": {
+        "Judging Approach": "Follow strict protocols and predefined rescue procedures.",
+        "Perceiving Approach": "Adapt to the changing situation on the ground, improvising as needed."
+      },
+      "Public Communication": {
+        "Extraverted Actions": "Conduct press conferences and actively engage with media and public.",
+        "Introverted Actions": "Prepare detailed written reports and communicate through official statements."
+      }
+    }
+  },
+  {
+    "Name": "International Diplomacy Simulation",
+    "Context": "Participants engage in a mock United Nations summit, dealing with global issues, treaty negotiations, cultural exchange programs, and conflict resolution.",
+    "Tasks": {
+      "Treaty Negotiations": {
+        "Thinking Approach": "Focus on national interests and strategic advantages in negotiations.",
+        "Feeling Approach": "Prioritize global welfare and ethical considerations in decision-making."
+      },
+      "Cultural Exchange Programs": {
+        "Sensing Approach": "Organize practical exchange programs focusing on tangible cultural aspects.",
+        "Intuitive Approach": "Create innovative programs that explore future cultural collaboration possibilities."
+      },
+      "Conflict Resolution": {
+        "Judging Approach": "Implement strict guidelines and formal processes for conflict resolution.",
+        "Perceiving Approach": "Encourage open dialogue and flexible solutions to conflicts."
+      },
+      "Global Issue Analysis": {
+        "Extraverted Actions": "Lead debates and discussions on global issues.",
+        "Introverted Actions": "Conduct in-depth research and analysis, presenting findings in detailed reports."
+      }
+    }
+  },
+  {
+    "Name": "Underwater Research Expedition",
+    "Context": "Participants are part of a team conducting a deep-sea research expedition, involving underwater exploration, data collection, team coordination, and environmental study.",
+    "Tasks": {
+      "Underwater Exploration": {
+        "Sensing Approach": "Use established navigation methods and focus on gathering tangible data.",
+        "Intuitive Approach": "Explore new areas based on theoretical models and hunches about undiscovered marine life."
+      },
+      "Data Collection": {
+        "Thinking Approach": "Prioritize collecting data that offers clear, objective insights.",
+        "Feeling Approach": "Gather data that could have significant implications for marine ecosystems and local communities."
+      },
+      "Team Coordination": {
+        "Judging Approach": "Implement a strict schedule and defined roles for each team member.",
+        "Perceiving Approach": "Allow team members to choose their tasks dynamically based on the evolving nature of the expedition."
+      },
+      "Environmental Study": {
+        "Extraverted Actions": "Engage in active discussions and collaborations with other research teams.",
+        "Introverted Actions": "Focus on individual analysis and in-depth study of collected samples."
+      }
+    }
+  },
+  {
+    "Name": "Historical Documentary Production",
+    "Context": "Teams are tasked with producing a documentary on a significant historical event, involving research, scriptwriting, filming, and editing.",
+    "Tasks": {
+      "Research": {
+        "Sensing Approach": "Focus on gathering facts from established sources and historical records.",
+        "Intuitive Approach": "Look for overarching themes and connections between different historical events."
+      },
+      "Scriptwriting": {
+        "Thinking Approach": "Create a script that is factual and informative.",
+        "Feeling Approach": "Write a script that emotionally resonates with the audience, highlighting human stories."
+      },
+      "Filming": {
+        "Extraverted Actions": "Direct on-site filming with a focus on dynamic, engaging shots.",
+        "Introverted Actions": "Concentrate on detailed, carefully composed shots that capture the essence of the subject."
+      },
+      "Editing": {
+        "Judging Approach": "Follow a strict editing plan with predetermined themes and narratives.",
+        "Perceiving Approach": "Keep an open-ended approach, allowing the story to evolve during the editing process."
+      }
+    }
+  },
+  {
+    "Name": "Urban Development Project",
+    "Context": "Participants work on an urban development project, which includes city planning, infrastructure development, community engagement, and sustainability initiatives.",
+    "Tasks": {
+      "City Planning": {
+        "Sensing Approach": "Design practical and efficient urban layouts based on current city dynamics.",
+        "Intuitive Approach": "Incorporate innovative and futuristic elements into city planning."
+      },
+      "Infrastructure Development": {
+        "Thinking Approach": "Emphasize cost-effective and functional infrastructure solutions.",
+        "Feeling Approach": "Consider the social impact and aesthetic value of infrastructure projects."
+      },
+      "Community Engagement": {
+        "Extraverted Actions": "Organize public forums and actively involve community members in decision-making.",
+        "Introverted Actions": "Conduct surveys and in-depth interviews to gather community input."
+      },
+      "Sustainability Initiatives": {
+        "Judging Approach": "Implement well-defined sustainability policies and measures.",
+        "Perceiving Approach": "Explore adaptive and flexible approaches to environmental sustainability."
+      }
+    }
+  },
+  {
+    "Name": "Space Station Simulation",
+    "Context": "Participants are crew members in a simulated space station, handling tasks like spacewalks, scientific experiments, systems maintenance, and communication with mission control.",
+    "Tasks": {
+      "Spacewalks": {
+        "Sensing Approach": "Conduct spacewalks strictly according to protocol, focusing on specific maintenance tasks.",
+        "Intuitive Approach": "Use spacewalks to test new equipment or experiment with novel repair techniques."
+      },
+      "Scientific Experiments": {
+        "Thinking Approach": "Prioritize experiments based on potential for concrete, measurable results.",
+        "Feeling Approach": "Choose experiments that could have significant implications for understanding life in space."
+      },
+      "Systems Maintenance": {
+        "Judging Approach": "Follow a rigid maintenance schedule, ensuring all systems are functioning as planned.",
+        "Perceiving Approach": "Adopt a more flexible maintenance approach, prioritizing tasks as situations evolve."
+      },
+      "Communication with Mission Control": {
+        "Extraverted Actions": "Regularly update mission control with detailed reports and active discussions.",
+        "Introverted Actions": "Communicate with mission control primarily through written reports and data logs."
+      }
+    }
+  },
+  {
+    "Name": "Archeological Dig Excursion",
+    "Context": "Participants are part of an archaeological team exploring an ancient site, involving excavation, artifact analysis, historical research, and preservation planning.",
+    "Tasks": {
+      "Excavation": {
+        "Sensing Approach": "Excavate based on proven techniques and focus on areas known to contain artifacts.",
+        "Intuitive Approach": "Explore new excavation areas based on theoretical models of the site's history."
+      },
+      "Artifact Analysis": {
+        "Thinking Approach": "Analyze artifacts based on their historical and cultural significance.",
+        "Feeling Approach": "Consider the broader human story and cultural impact of the artifacts."
+      },
+      "Historical Research": {
+        "Judging Approach": "Conduct research following a structured methodology, focusing on specific historical periods.",
+        "Perceiving Approach": "Adopt an exploratory approach to research, open to various historical interpretations."
+      },
+      "Preservation Planning": {
+        "Extraverted Actions": "Engage with the public and educational institutions to share findings and promote preservation.",
+        "Introverted Actions": "Focus on developing detailed preservation plans and written documentation."
+      }
+    }
+  },
+  {
+    "Name": "Culinary Competition",
+    "Context": "Participants are chefs in a culinary competition, tasked with menu creation, ingredient sourcing, cooking under pressure, and presenting dishes to judges.",
+    "Tasks": {
+      "Menu Creation": {
+        "Sensing Approach": "Design menus based on classic, time-tested recipes and flavors.",
+        "Intuitive Approach": "Create innovative and experimental dishes that push culinary boundaries."
+      },
+      "Ingredient Sourcing": {
+        "Thinking Approach": "Select ingredients based on quality, availability, and cost-effectiveness.",
+        "Feeling Approach": "Choose ingredients with a focus on sustainability and ethical sourcing."
+      },
+      "Cooking Under Pressure": {
+        "Judging Approach": "Follow a strict cooking plan with precise timing and techniques.",
+        "Perceiving Approach": "Adapt cooking methods and ingredients on the fly based on intuition and immediate feedback."
+      },
+      "Presenting Dishes": {
+        "Extraverted Actions": "Present dishes with flair and engage actively with judges and audience.",
+        "Introverted Actions": "Focus on the visual presentation and written descriptions of the dishes."
+      }
+    }
+  },
+  {
+    "Name": "Wildlife Conservation Project",
+    "Context": "Participants are involved in a wildlife conservation project, which includes field research, community outreach, habitat restoration, and fundraising efforts.",
+    "Tasks": {
+      "Field Research": {
+        "Sensing Approach": "Conduct systematic surveys and data collection on wildlife populations.",
+        "Intuitive Approach": "Develop new research methodologies to uncover deeper ecological insights."
+      },
+      "Community Outreach": {
+        "Thinking Approach": "Focus on educating the community with factual information about conservation.",
+        "Feeling Approach": "Build emotional connections with the community to foster a deeper appreciation for wildlife."
+      },
+      "Habitat Restoration": {
+        "Judging Approach": "Implement a structured plan for habitat restoration with clear goals and timelines.",
+        "Perceiving Approach": "Adapt restoration strategies based on changing environmental conditions and observations."
+      },
+      "Fundraising Efforts": {
+        "Extraverted Actions": "Organize public events and actively engage with donors and sponsors.",
+        "Introverted Actions": "Develop detailed grant proposals and manage online fundraising campaigns."
+      }
+    }
+  },
+  {
+    "Name": "Innovation Challenge",
+    "Context": "Teams participate in a challenge to create an innovative product or solution, involving brainstorming sessions, prototype development, market analysis, and pitch presentations.",
+    "Tasks": {
+      "Brainstorming Sessions": {
+        "Sensing Approach": "Generate ideas based on current market trends and consumer needs.",
+        "Intuitive Approach": "Encourage out-of-the-box thinking and futuristic concepts."
+      },
+      "Prototype Development": {
+        "Thinking Approach": "Build prototypes with a focus on functionality and feasibility.",
+        "Feeling Approach": "Design prototypes considering user experience and aesthetic appeal."
+      },
+      "Market Analysis": {
+        "Judging Approach": "Conduct a thorough and structured analysis of market potential and competition.",
+        "Perceiving Approach": "Explore various market scenarios and potential niche opportunities."
+      },
+      "Pitch Presentations": {
+        "Extraverted Actions": "Deliver dynamic and engaging presentations to potential investors.",
+        "Introverted Actions": "Focus on creating detailed written pitches and visual presentations."
+      }
+    }
+  },
+  {
+    "Name": "Historical Reenactment Event",
+    "Context": "Participants organize and participate in a historical reenactment, involving research, costume design, scriptwriting, and event management.",
+    "Tasks": {
+      "Research": {
+        "Sensing Approach": "Gather accurate historical information from reliable sources to ensure authenticity.",
+        "Intuitive Approach": "Explore broader historical contexts to add depth and meaning to the reenactment."
+      },
+      "Costume Design": {
+        "Thinking Approach": "Create costumes focusing on historical accuracy and practicality.",
+        "Feeling Approach": "Design costumes that evoke the spirit and emotions of the era."
+      },
+      "Scriptwriting": {
+        "Judging Approach": "Write a script with a clear structure and historical narrative.",
+        "Perceiving Approach": "Allow for improvisation and spontaneous interactions in the script."
+      },
+      "Event Management": {
+        "Extraverted Actions": "Lead the coordination and promotion of the event, engaging with the public and participants.",
+        "Introverted Actions": "Focus on behind-the-scenes organization and detailed planning of the event."
+      }
+    }
+  },
+  {
+    "Name": "Virtual Reality Game Development",
+    "Context": "Teams develop a virtual reality game, including concept design, programming, user experience testing, and marketing.",
+    "Tasks": {
+      "Concept Design": {
+        "Sensing Approach": "Focus on practical and user-friendly interfaces.",
+        "Intuitive Approach": "Innovate with immersive storytelling techniques."
+      },
+      "Programming": {
+        "Thinking Approach": "Ensure efficient, bug-free coding.",
+        "Feeling Approach": "Make the game emotionally engaging."
+      },
+      "User Experience Testing": {
+        "Extraverted Actions": "Conduct live focus groups.",
+        "Introverted Actions": "Analyze user feedback data."
+      },
+      "Marketing": {
+        "Judging Approach": "Create a structured marketing campaign.",
+        "Perceiving Approach": "Adapt to viral marketing strategies."
+      }
+    }
+  },
+  {
+    "Name": "Climate Change Symposium",
+    "Context": "Organizing an international symposium on climate change, including scientific panels, policy debates, youth engagement, and media relations.",
+    "Tasks": {
+      "Scientific Panel Discussions": {
+        "Sensing Approach": "Present factual data.",
+        "Intuitive Approach": "Discuss theoretical impacts."
+      },
+      "Policy Debates": {
+        "Thinking Approach": "Argue with logical policy propositions.",
+        "Feeling Approach": "Focus on human-centered policies."
+      },
+      "Youth Engagement": {
+        "Extraverted Actions": "Host interactive workshops.",
+        "Introverted Actions": "Organize essay contests and online forums."
+      },
+      "Media Relations": {
+        "Judging Approach": "Implement a consistent media strategy.",
+        "Perceiving Approach": "Adapt to changing news cycles."
+      }
+    }
+  },
+  {
+    "Name": "Fashion Industry Revolution",
+    "Context": "Transforming the fashion industry towards sustainability, including sustainable material sourcing, ethical manufacturing, trend forecasting, and brand repositioning.",
+    "Tasks": {
+      "Sustainable Material Sourcing": {
+        "Sensing Approach": "Choose practical materials.",
+        "Intuitive Approach": "Explore innovative, eco-friendly materials."
+      },
+      "Ethical Manufacturing": {
+        "Thinking Approach": "Develop efficient, ethical production methods.",
+        "Feeling Approach": "Ensure fair labor practices."
+      },
+      "Trend Forecasting": {
+        "Extraverted Actions": "Engage in runway shows and events.",
+        "Introverted Actions": "Conduct in-depth market research."
+      },
+      "Brand Repositioning": {
+        "Judging Approach": "Plan a strategic rebranding.",
+        "Perceiving Approach": "Stay flexible to trends."
+      }
+    }
+  },
+  {
+    "Name": "Interstellar Colony Planning",
+    "Context": "Designing a self-sustaining colony on a distant planet, including habitat design, resource management, social structure, and survival strategies.",
+    "Tasks": {
+      "Habitat Design": {
+        "Sensing Approach": "Build practical and durable structures.",
+        "Intuitive Approach": "Create innovative living spaces."
+      },
+      "Resource Management": {
+        "Thinking Approach": "Manage resources efficiently.",
+        "Feeling Approach": "Focus on colonist well-being."
+      },
+      "Social Structure Development": {
+        "Extraverted Actions": "Facilitate community building.",
+        "Introverted Actions": "Develop governance policies."
+      },
+      "Long-term Survival Strategies": {
+        "Judging Approach": "Formulate a detailed survival plan.",
+        "Perceiving Approach": "Adapt and evolve strategies."
+      }
+    }
+  },
+  {
+    "Name": "Global Renewable Energy Initiative",
+    "Context": "Participants work on a global project to increase the adoption of renewable energy, involving technology development, policy advocacy, public awareness campaigns, and international collaboration.",
+    "Tasks": {
+      "Technology Development": {
+        "Sensing Approach": "Develop reliable and tested renewable energy technologies.",
+        "Intuitive Approach": "Innovate with cutting-edge and futuristic energy solutions."
+      },
+      "Policy Advocacy": {
+        "Thinking Approach": "Focus on logical arguments and economic benefits of renewable energy.",
+        "Feeling Approach": "Emphasize the environmental and social impacts of renewable energy policies."
+      },
+      "Public Awareness Campaigns": {
+        "Extraverted Actions": "Conduct large-scale public events and media appearances.",
+        "Introverted Actions": "Create informative digital content and written materials."
+      },
+      "International Collaboration": {
+        "Judging Approach": "Work within structured international agreements and protocols.",
+        "Perceiving Approach": "Adapt to the differing needs and capabilities of various countries."
+      }
+    }
+  },
+  {
+    "Name": "Advanced Medical Research Lab",
+    "Context": "Teams are involved in a high-tech medical research lab, focusing on drug discovery, clinical trials, ethical considerations, and global health impact.",
+    "Tasks": {
+      "Drug Discovery": {
+        "Sensing Approach": "Use established scientific methods to develop new medications.",
+        "Intuitive Approach": "Explore novel compounds and innovative treatment methods."
+      },
+      "Clinical Trials": {
+        "Thinking Approach": "Conduct trials emphasizing statistical significance and efficacy.",
+        "Feeling Approach": "Prioritize patient welfare and ethical considerations in trials."
+      },
+      "Ethical Considerations": {
+        "Judging Approach": "Adhere strictly to ethical guidelines and protocols.",
+        "Perceiving Approach": "Consider the broader ethical implications of medical research."
+      },
+      "Global Health Impact": {
+        "Extraverted Actions": "Engage with international health organizations and forums.",
+        "Introverted Actions": "Focus on detailed research reports and policy papers."
+      }
+    }
+  },
+  {
+    "Name": "Multinational Peacekeeping Mission",
+    "Context": "Participants simulate a multinational peacekeeping mission, involving conflict analysis, negotiation, cultural sensitivity training, and humanitarian aid coordination.",
+    "Tasks": {
+      "Conflict Analysis": {
+        "Sensing Approach": "Assess the conflict based on current facts and historical data.",
+        "Intuitive Approach": "Consider underlying and future implications of the conflict."
+      },
+      "Negotiation": {
+        "Thinking Approach": "Use logical and strategic negotiation techniques.",
+        "Feeling Approach": "Emphasize empathy and understanding in negotiations."
+      },
+      "Cultural Sensitivity Training": {
+        "Extraverted Actions": "Conduct interactive training sessions and workshops.",
+        "Introverted Actions": "Develop comprehensive training manuals and online courses."
+      },
+      "Humanitarian Aid Coordination": {
+        "Judging Approach": "Organize aid with strict planning and distribution schedules.",
+        "Perceiving Approach": "Adapt aid efforts based on changing ground realities."
+      }
+    }
+  },
+  {
+    "Name": "Intergalactic Travel Agency Startup",
+    "Context": "Teams create a startup focused on intergalactic travel, handling aspects like spacecraft design, travel logistics, customer experience, and interplanetary regulations.",
+    "Tasks": {
+      "Spacecraft Design": {
+        "Sensing Approach": "Design spacecraft based on proven space travel technologies.",
+        "Intuitive Approach": "Innovate with radical designs and new propulsion methods."
+      },
+      "Travel Logistics": {
+        "Thinking Approach": "Plan travel routes and logistics with a focus on efficiency and safety.",
+        "Feeling Approach": "Ensure the comfort and enjoyment of passengers."
+      },
+      "Customer Experience": {
+        "Extraverted Actions": "Create interactive and engaging experiences for travelers.",
+        "Introverted Actions": "Focus on personalized and detailed travel planning."
+      },
+      "Interplanetary Regulations": {
+        "Judging Approach": "Adhere strictly to existing space travel laws and guidelines.",
+        "Perceiving Approach": "Navigate and adapt to the evolving landscape of space regulations."
+      }
+    }
+  },
+  {
+    "Name": "Deep-Sea Marine Conservation Project",
+    "Context": "Participants engage in a project focused on deep-sea marine conservation, covering areas such as species research, habitat protection, pollution reduction, and public education.",
+    "Tasks": {
+      "Species Research": {
+        "Sensing Approach": "Conduct detailed studies based on existing marine biological data.",
+        "Intuitive Approach": "Explore new theories about deep-sea ecosystems and species behaviors."
+      },
+      "Habitat Protection": {
+        "Thinking Approach": "Implement habitat protection strategies based on scientific evidence.",
+        "Feeling Approach": "Focus on the impact of habitat conservation on marine life well-being."
+      },
+      "Pollution Reduction": {
+        "Judging Approach": "Develop stringent anti-pollution measures and protocols.",
+        "Perceiving Approach": "Adapt strategies based on changing environmental conditions and pollution patterns."
+      },
+      "Public Education": {
+        "Extraverted Actions": "Organize interactive public awareness campaigns and events.",
+        "Introverted Actions": "Create educational materials and documentaries."
+      }
+    }
+  },
+  {
+    "Name": "Futuristic Smart City Planning",
+    "Context": "Teams are tasked with designing a futuristic smart city, involving sustainable urban planning, advanced technology integration, citizen engagement, and infrastructure development.",
+    "Tasks": {
+      "Sustainable Urban Planning": {
+        "Sensing Approach": "Use proven urban planning methods for sustainability.",
+        "Intuitive Approach": "Incorporate innovative concepts for urban sustainability."
+      },
+      "Advanced Technology Integration": {
+        "Thinking Approach": "Focus on the practical implementation of technology in urban spaces.",
+        "Feeling Approach": "Consider the impact of technology on citizen quality of life."
+      },
+      "Citizen Engagement": {
+        "Extraverted Actions": "Lead public forums and participatory planning sessions.",
+        "Introverted Actions": "Analyze citizen feedback and surveys for urban planning insights."
+      },
+      "Infrastructure Development": {
+        "Judging Approach": "Adhere to a structured and methodical development plan.",
+        "Perceiving Approach": "Remain flexible to innovative construction methods and materials."
+      }
+    }
+  },
+  {
+    "Name": "Intercontinental Cultural Festival",
+    "Context": "Participants organize a large-scale intercontinental cultural festival, focusing on event planning, international artist collaboration, cultural exhibitions, and digital outreach.",
+    "Tasks": {
+      "Event Planning": {
+        "Sensing Approach": "Organize the festival based on successful past events and proven strategies.",
+        "Intuitive Approach": "Create a unique and unprecedented festival experience."
+      },
+      "International Artist Collaboration": {
+        "Thinking Approach": "Collaborate based on artistic merit and professional reputation.",
+        "Feeling Approach": "Focus on fostering a deep cultural exchange and mutual understanding."
+      },
+      "Cultural Exhibitions": {
+        "Judging Approach": "Curate exhibitions with a well-defined theme and layout.",
+        "Perceiving Approach": "Allow for spontaneous and emergent themes in exhibitions."
+      },
+      "Digital Outreach": {
+        "Extraverted Actions": "Engage audiences through live-streaming events and social media interactions.",
+        "Introverted Actions": "Develop comprehensive online content and virtual tours."
+      }
+    }
+  },
+  {
+    "Name": "Global Health Crisis Task Force",
+    "Context": "Teams form a task force to address a global health crisis, covering areas such as medical research, international cooperation, public health policy, and crisis communication.",
+    "Tasks": {
+      "Medical Research": {
+        "Sensing Approach": "Conduct research based on established medical practices and data.",
+        "Intuitive Approach": "Investigate new treatments and unconventional medical theories."
+      },
+      "International Cooperation": {
+        "Thinking Approach": "Collaborate based on strategic benefits and resource optimization.",
+        "Feeling Approach": "Emphasize humanitarian goals and equitable resource distribution."
+      },
+      "Public Health Policy": {
+        "Judging Approach": "Create clear and strict public health guidelines and policies.",
+        "Perceiving Approach": "Develop flexible and adaptive public health strategies."
+      },
+      "Crisis Communication": {
+        "Extraverted Actions": "Lead public briefings and media engagements.",
+        "Introverted Actions": "Focus on creating detailed informational materials and reports."
+      }
+    }
+  },
+  {
+    "Name": "Antarctic Research and Survival Expedition",
+    "Context": "Teams embark on a research and survival mission in Antarctica, focusing on climate studies, wildlife observation, survival skills, and scientific data analysis.",
+    "Tasks": {
+      "Climate Studies": {
+        "Sensing Approach": "Conduct climate research based on established scientific methods.",
+        "Intuitive Approach": "Explore new theories about climate change impacts in polar regions."
+      },
+      "Wildlife Observation": {
+        "Thinking Approach": "Document wildlife behavior and populations with a scientific focus.",
+        "Feeling Approach": "Study wildlife with an emphasis on conservation and ecological balance."
+      },
+      "Survival Skills": {
+        "Judging Approach": "Adhere to strict survival protocols and procedures.",
+        "Perceiving Approach": "Adapt survival strategies to unexpected environmental changes."
+      },
+      "Scientific Data Analysis": {
+        "Extraverted Actions": "Collaborate with international research teams and share findings.",
+        "Introverted Actions": "Conduct in-depth data analysis and write comprehensive reports."
+      }
+    }
+  },
+  {
+    "Name": "Automotive Industry Innovation Challenge",
+    "Context": "Participants engage in revolutionizing the automotive industry, covering electric vehicle development, sustainable manufacturing, market strategy, and customer experience enhancement.",
+    "Tasks": {
+      "Electric Vehicle Development": {
+        "Sensing Approach": "Design vehicles based on proven electric technologies.",
+        "Intuitive Approach": "Innovate with new electric propulsion systems and designs."
+      },
+      "Sustainable Manufacturing": {
+        "Thinking Approach": "Implement environmentally efficient manufacturing processes.",
+        "Feeling Approach": "Focus on the social impact of manufacturing practices."
+      },
+      "Market Strategy": {
+        "Judging Approach": "Develop a structured and data-driven market entry strategy.",
+        "Perceiving Approach": "Adapt marketing strategies to emerging trends and consumer preferences."
+      },
+      "Customer Experience Enhancement": {
+        "Extraverted Actions": "Create interactive showrooms and customer events.",
+        "Introverted Actions": "Develop personalized digital interfaces and services."
+      }
+    }
+  },
+  {
+    "Name": "High-Tech Agriculture Revolution",
+    "Context": "Teams work on revolutionizing agriculture with high-tech solutions, involving precision farming, sustainable practices, market analysis, and community education.",
+    "Tasks": {
+      "Precision Farming": {
+        "Sensing Approach": "Implement proven precision farming techniques and equipment.",
+        "Intuitive Approach": "Experiment with new agricultural technologies and methods."
+      },
+      "Sustainable Practices": {
+        "Thinking Approach": "Adopt practices based on their environmental efficiency.",
+        "Feeling Approach": "Implement farming practices that enhance community well-being."
+      },
+      "Market Analysis": {
+        "Judging Approach": "Conduct a thorough analysis of market demands and trends.",
+        "Perceiving Approach": "Explore niche markets and emerging consumer needs."
+      },
+      "Community Education": {
+        "Extraverted Actions": "Organize workshops and field days for local communities.",
+        "Introverted Actions": "Create educational materials and online courses."
+      }
+    }
+  },
+  {
+    "Name": "Underground City Development",
+    "Context": "Participants design an underground city, addressing challenges like architectural design, life support systems, community planning, and sustainable energy use.",
+    "Tasks": {
+      "Architectural Design": {
+        "Sensing Approach": "Use established underground construction techniques.",
+        "Intuitive Approach": "Design innovative and futuristic underground structures."
+      },
+      "Life Support Systems": {
+        "Thinking Approach": "Implement systems based on technical efficiency and reliability.",
+        "Feeling Approach": "Ensure systems are designed with residents' comfort and well-being in mind."
+      },
+      "Community Planning": {
+        "Judging Approach": "Create a structured urban plan with defined zones and facilities.",
+        "Perceiving Approach": "Develop flexible community spaces that can evolve with residents' needs."
+      },
+      "Sustainable Energy Use": {
+        "Extraverted Actions": "Collaborate with external experts and organizations on energy solutions.",
+        "Introverted Actions": "Focus on in-depth research and development of energy systems."
+      }
+    }
+  },
+  {
+    "Name": "Time Capsule Project for Future Generations",
+    "Context": "Teams create a time capsule intended for future generations, involving artifact selection, historical documentation, preservation techniques, and a digital legacy.",
+    "Tasks": {
+      "Artifact Selection": {
+        "Sensing Approach": "Choose artifacts that accurately represent current times.",
+        "Intuitive Approach": "Select items that could hold significant meaning for the future."
+      },
+      "Historical Documentation": {
+        "Thinking Approach": "Document current events and culture with a objective, factual focus.",
+        "Feeling Approach": "Capture the emotional and social aspects of contemporary life."
+      },
+      "Preservation Techniques": {
+        "Judging Approach": "Use proven preservation methods to ensure long-term viability.",
+        "Perceiving Approach": "Explore innovative preservation techniques for better longevity."
+      },
+      "Digital Legacy": {
+        "Extraverted Actions": "Create interactive digital content for future viewers.",
+        "Introverted Actions": "Compile detailed digital archives and records."
+      }
+    }
+  },
+  {
+    "Name": "Space Habitat Ecosystem Design",
+    "Context": "Participants design a self-sustaining ecosystem for a space habitat, focusing on closed-loop life support systems, space agriculture, habitat architecture, and psychological well-being.",
+    "Tasks": {
+      "Closed-Loop Life Support Systems": {
+        "Sensing Approach": "Develop systems based on existing space life support technology.",
+        "Intuitive Approach": "Innovate with new technologies for resource recycling and sustainability."
+      },
+      "Space Agriculture": {
+        "Thinking Approach": "Implement agricultural techniques based on scientific efficiency.",
+        "Feeling Approach": "Design agricultural solutions that also enhance the habitat's aesthetics and morale."
+      },
+      "Habitat Architecture": {
+        "Judging Approach": "Plan the habitat layout with a focus on functional and efficient space use.",
+        "Perceiving Approach": "Design flexible living spaces that can adapt to changing needs."
+      },
+      "Psychological Well-being": {
+        "Extraverted Actions": "Develop community activities and social spaces.",
+        "Introverted Actions": "Create personal retreats and quiet areas for individual reflection."
+      }
+    }
+  },
+  {
+    "Name": "Multimedia Art Festival",
+    "Context": "Teams organize a large-scale multimedia art festival, covering aspects such as interactive installations, digital art showcases, live performances, and audience engagement.",
+    "Tasks": {
+      "Interactive Installations": {
+        "Sensing Approach": "Create installations based on traditional art forms and techniques.",
+        "Intuitive Approach": "Develop innovative and immersive installation experiences."
+      },
+      "Digital Art Showcases": {
+        "Thinking Approach": "Curate digital art based on technical skill and innovation.",
+        "Feeling Approach": "Focus on art that evokes strong emotional responses."
+      },
+      "Live Performances": {
+        "Judging Approach": "Plan performances with a strict schedule and rehearsed content.",
+        "Perceiving Approach": "Encourage improvisation and spontaneous audience interaction."
+      },
+      "Audience Engagement": {
+        "Extraverted Actions": "Host interactive workshops and public discussions.",
+        "Introverted Actions": "Provide immersive personal viewing experiences."
+      }
+    }
+  },
+  {
+    "Name": "Subterranean Archaeological Exploration",
+    "Context": "Participants embark on an exploration of subterranean archaeological sites, involving excavation, artifact preservation, historical interpretation, and virtual reality tours.",
+    "Tasks": {
+      "Excavation": {
+        "Sensing Approach": "Use established archaeological techniques for excavation.",
+        "Intuitive Approach": "Experiment with new methods for unearthing artifacts."
+      },
+      "Artifact Preservation": {
+        "Thinking Approach": "Preserve artifacts using proven conservation methods.",
+        "Feeling Approach": "Consider the cultural significance and storytelling in preservation."
+      },
+      "Historical Interpretation": {
+        "Judging Approach": "Analyze findings based on established historical contexts.",
+        "Perceiving Approach": "Explore alternative historical narratives and meanings."
+      },
+      "Virtual Reality Tours": {
+        "Extraverted Actions": "Develop interactive and engaging VR experiences for the public.",
+        "Introverted Actions": "Create detailed and informative VR content for educational purposes."
+      }
+    }
+  },
+  {
+    "Name": "Galactic Astronomy Research Center",
+    "Context": "Teams operate in a galactic astronomy research center, focusing on deep-space observations, theoretical astrophysics, public outreach, and data analysis.",
+    "Tasks": {
+      "Deep-Space Observations": {
+        "Sensing Approach": "Conduct observations based on established astronomical methods.",
+        "Intuitive Approach": "Explore new regions and phenomena in the galaxy."
+      },
+      "Theoretical Astrophysics": {
+        "Thinking Approach": "Develop theories based on mathematical models and existing data.",
+        "Feeling Approach": "Consider the philosophical implications of astrophysical discoveries."
+      },
+      "Public Outreach": {
+        "Judging Approach": "Organize structured educational programs and events.",
+        "Perceiving Approach": "Adapt outreach methods to engage different audiences."
+      },
+      "Data Analysis": {
+        "Extraverted Actions": "Collaborate with international teams for joint research projects.",
+        "Introverted Actions": "Focus on meticulous individual data analysis and reporting."
+      }
+    }
+  },
+  {
+    "Name": "Underwater Habitat Expansion Project",
+    "Context": "Participants work on expanding an underwater habitat for research and tourism, involving habitat engineering, marine biology studies, visitor experience design, and environmental impact assessment.",
+    "Tasks": {
+      "Habitat Engineering": {
+        "Sensing Approach": "Use proven underwater construction techniques for habitat expansion.",
+        "Intuitive Approach": "Implement innovative engineering solutions for sustainable living underwater."
+      },
+      "Marine Biology Studies": {
+        "Thinking Approach": "Conduct studies focused on the scientific understanding of marine ecosystems.",
+        "Feeling Approach": "Study marine life with an emphasis on conservation and habitat protection."
+      },
+      "Visitor Experience Design": {
+        "Judging Approach": "Develop structured tour programs and educational content.",
+        "Perceiving Approach": "Create flexible and immersive visitor experiences."
+      },
+      "Environmental Impact Assessment": {
+        "Extraverted Actions": "Engage with external environmental groups and share findings publicly.",
+        "Introverted Actions": "Conduct in-depth environmental impact studies and develop comprehensive reports."
+      }
+    }
+  },
+  {
+    "Name": "Historical Linguistics Research Project",
+    "Context": "Teams delve into a historical linguistics research project, exploring ancient languages, script decipherment, cultural context analysis, and digital archiving of findings.",
+    "Tasks": {
+      "Ancient Languages Study": {
+        "Sensing Approach": "Analyze languages based on existing linguistic data and historical records.",
+        "Intuitive Approach": "Explore hypothetical connections between ancient and modern languages."
+      },
+      "Script Decipherment": {
+        "Thinking Approach": "Decipher scripts using logical analysis and comparative methods.",
+        "Feeling Approach": "Consider the cultural and historical significance of the scripts in decipherment."
+      },
+      "Cultural Context Analysis": {
+        "Judging Approach": "Examine cultural contexts with a structured historical framework.",
+        "Perceiving Approach": "Interpret cultural contexts with flexibility, considering various historical perspectives."
+      },
+      "Digital Archiving": {
+        "Extraverted Actions": "Create a public digital archive accessible for educational purposes.",
+        "Introverted Actions": "Focus on detailed and thorough digital documentation for research use."
+      }
+    }
+  },
+  {
+    "Name": "Global Virtual Learning Platform Initiative",
+    "Context": "Participants develop a global virtual learning platform, addressing challenges in curriculum design, technology integration, accessibility, and cultural inclusivity.",
+    "Tasks": {
+      "Curriculum Design": {
+        "Sensing Approach": "Develop a curriculum based on established educational standards.",
+        "Intuitive Approach": "Innovate with interdisciplinary and forward-thinking course content."
+      },
+      "Technology Integration": {
+        "Thinking Approach": "Incorporate technology based on its functionality and user-friendliness.",
+        "Feeling Approach": "Focus on how technology enhances the learning experience and engagement."
+      },
+      "Accessibility": {
+        "Judging Approach": "Ensure the platform adheres to strict accessibility guidelines.",
+        "Perceiving Approach": "Adapt to diverse learner needs and feedback for continuous improvement."
+      },
+      "Cultural Inclusivity": {
+        "Extraverted Actions": "Engage with diverse cultural groups to ensure broad representation.",
+        "Introverted Actions": "Conduct thorough research to understand different cultural perspectives in education."
+      }
+    }
+  },
+  {
+    "Name": "Transcontinental Railway Development Project",
+    "Context": "Teams work on a project to develop a transcontinental railway, focusing on route planning, environmental impact, international cooperation, and technological innovation.",
+    "Tasks": {
+      "Route Planning": {
+        "Sensing Approach": "Plan routes based on current geographical and infrastructural data.",
+        "Intuitive Approach": "Explore new potential routes using predictive modeling and future growth projections."
+      },
+      "Environmental Impact": {
+        "Thinking Approach": "Assess environmental impact based on empirical data and regulations.",
+        "Feeling Approach": "Consider the social and ecological implications of the railway development."
+      },
+      "International Cooperation": {
+        "Judging Approach": "Coordinate with international bodies following formal agreements and protocols.",
+        "Perceiving Approach": "Navigate diplomatic and logistical challenges with flexibility and adaptability."
+      },
+      "Technological Innovation": {
+        "Extraverted Actions": "Collaborate with global tech firms and engineering experts.",
+        "Introverted Actions": "Focus on in-depth technical research and innovative engineering solutions."
+      }
+    }
+  },
+  {
+    "Name": "Next-Generation Social Networking Platform",
+    "Context": "Participants create a next-generation social networking platform, tackling aspects like user interface design, data privacy, algorithm development, and community building.",
+    "Tasks": {
+      "User Interface Design": {
+        "Sensing Approach": "Design an interface based on proven user experience principles.",
+        "Intuitive Approach": "Innovate with new interaction models and visual designs."
+      },
+      "Data Privacy": {
+        "Thinking Approach": "Implement privacy features based on legal requirements and technical security.",
+        "Feeling Approach": "Consider user concerns and ethical aspects of data privacy."
+      },
+      "Algorithm Development": {
+        "Judging Approach": "Develop algorithms with specific goals for content delivery and user interaction.",
+        "Perceiving Approach": "Create adaptable algorithms that evolve with user behavior and preferences."
+      },
+      "Community Building": {
+        "Extraverted Actions": "Foster active online communities and encourage public interaction.",
+        "Introverted Actions": "Develop tools for users to build private and focused groups."
+      }
+    }
+  },
+  {
+    "Name": "Eco-Friendly Urban Transportation System",
+    "Context": "Teams design an eco-friendly urban transportation system, focusing on sustainable vehicle design, public transit planning, green infrastructure, and user accessibility.",
+    "Tasks": {
+      "Sustainable Vehicle Design": {
+        "Sensing Approach": "Create vehicles using proven eco-friendly technologies.",
+        "Intuitive Approach": "Innovate with new materials and energy systems for transportation."
+      },
+      "Public Transit Planning": {
+        "Thinking Approach": "Plan transit routes and schedules based on efficiency and coverage.",
+        "Feeling Approach": "Design a transit system that improves community connectivity and quality of life."
+      },
+      "Green Infrastructure": {
+        "Judging Approach": "Implement infrastructure projects with established environmental guidelines.",
+        "Perceiving Approach": "Integrate emerging green technologies and adaptive urban designs."
+      },
+      "User Accessibility": {
+        "Extraverted Actions": "Conduct public consultations and interactive planning sessions.",
+        "Introverted Actions": "Analyze transportation needs and patterns through data analysis and user feedback."
+      }
+    }
+  },
+  {
+    "Name": "Aerospace Engineering Competition",
+    "Context": "Participants engage in an aerospace engineering competition, focusing on spacecraft design, propulsion systems, mission planning, and sustainable space exploration.",
+    "Tasks": {
+      "Spacecraft Design": {
+        "Sensing Approach": "Develop designs based on proven aerospace engineering principles.",
+        "Intuitive Approach": "Innovate with radical designs and untested theoretical concepts."
+      },
+      "Propulsion Systems": {
+        "Thinking Approach": "Engineer propulsion systems focusing on efficiency and reliability.",
+        "Feeling Approach": "Consider the environmental impact of propulsion systems and their sustainability."
+      },
+      "Mission Planning": {
+        "Judging Approach": "Create detailed mission plans with specific objectives and timelines.",
+        "Perceiving Approach": "Allow for flexible mission planning to adapt to unforeseen challenges."
+      },
+      "Sustainable Space Exploration": {
+        "Extraverted Actions": "Collaborate with various organizations to promote sustainable practices.",
+        "Introverted Actions": "Conduct in-depth research on minimizing space exploration's ecological footprint."
+      }
+    }
+  },
+  {
+    "Name": "International Espionage Simulation",
+    "Context": "Teams participate in a simulation of international espionage, involving intelligence gathering, undercover operations, data decryption, and geopolitical strategy.",
+    "Tasks": {
+      "Intelligence Gathering": {
+        "Sensing Approach": "Collect intelligence based on established surveillance techniques.",
+        "Intuitive Approach": "Use creative methods to gather intelligence from unconventional sources."
+      },
+      "Undercover Operations": {
+        "Thinking Approach": "Plan operations based on strategic goals and logical analysis.",
+        "Feeling Approach": "Conduct operations with a focus on ethical implications and interpersonal dynamics."
+      },
+      "Data Decryption": {
+        "Judging Approach": "Decrypt data using systematic, tried-and-true cryptographic methods.",
+        "Perceiving Approach": "Adapt decryption strategies based on the evolving nature of encryption technologies."
+      },
+      "Geopolitical Strategy": {
+        "Extraverted Actions": "Engage in diplomatic negotiations and alliance building.",
+        "Introverted Actions": "Analyze global political trends and develop strategic plans."
+      }
+    }
+  },
+  {
+    "Name": "Sustainable Island Development Initiative",
+    "Context": "Participants work on a project to develop a sustainable island, covering areas such as renewable energy integration, eco-tourism, habitat conservation, and community-based governance.",
+    "Tasks": {
+      "Renewable Energy Integration": {
+        "Sensing Approach": "Implement established renewable energy technologies.",
+        "Intuitive Approach": "Explore innovative energy solutions unique to the island's ecosystem."
+      },
+      "Eco-Tourism": {
+        "Thinking Approach": "Develop eco-tourism based on market research and sustainability metrics.",
+        "Feeling Approach": "Create tourism experiences that emphasize cultural sensitivity and environmental education."
+      },
+      "Habitat Conservation": {
+        "Judging Approach": "Enforce strict conservation protocols and habitat management systems.",
+        "Perceiving Approach": "Adapt conservation strategies in response to ecological changes and findings."
+      },
+      "Community-Based Governance": {
+        "Extraverted Actions": "Facilitate community meetings and participatory decision-making processes.",
+        "Introverted Actions": "Develop policies and governance structures based on in-depth community consultations."
+      }
+    }
+  },
+  {
+    "Name": "Quantum Computing Breakthrough Challenge",
+    "Context": "Teams are tasked with making a breakthrough in quantum computing, focusing on algorithm development, hardware innovation, cybersecurity implications, and theoretical research.",
+    "Tasks": {
+      "Algorithm Development": {
+        "Sensing Approach": "Create algorithms based on current quantum computing models and theories.",
+        "Intuitive Approach": "Invent novel algorithms that push the boundaries of quantum theory."
+      },
+      "Hardware Innovation": {
+        "Thinking Approach": "Design quantum computing hardware for optimal performance and scalability.",
+        "Feeling Approach": "Consider the broader impact of quantum computing on society and technology."
+      },
+      "Cybersecurity Implications": {
+        "Judging Approach": "Develop security protocols based on existing cybersecurity frameworks.",
+        "Perceiving Approach": "Anticipate and adapt to the unique security challenges posed by quantum computing."
+      },
+      "Theoretical Research": {
+        "Extraverted Actions": "Collaborate with international researchers and institutions.",
+        "Introverted Actions": "Conduct solitary, deep theoretical work to advance understanding of quantum mechanics."
+      }
+    }
+  },
+  {
+    "Name": "Revolutionary Sports Training Facility",
+    "Context": "Participants design a state-of-the-art sports training facility, focusing on athlete development, sports technology integration, nutrition planning, and injury prevention programs.",
+    "Tasks": {
+      "Athlete Development": {
+        "Sensing Approach": "Implement training programs based on proven techniques and physical benchmarks.",
+        "Intuitive Approach": "Develop unique training methods tailored to individual athlete potentials."
+      },
+      "Sports Technology Integration": {
+        "Thinking Approach": "Incorporate technology based on its performance enhancement capabilities.",
+        "Feeling Approach": "Choose technologies that also focus on athlete well-being and mental health."
+      },
+      "Nutrition Planning": {
+        "Judging Approach": "Create structured dietary plans with specific nutritional targets.",
+        "Perceiving Approach": "Adapt nutrition plans to individual athlete needs and feedback."
+      },
+      "Injury Prevention Programs": {
+        "Extraverted Actions": "Organize collaborative workshops with sports medicine experts.",
+        "Introverted Actions": "Conduct in-depth research on injury prevention and recovery methods."
+      }
+    }
+  },
+  {
+    "Name": "Global Water Resource Management Summit",
+    "Context": "Teams convene for a summit on global water resource management, addressing freshwater distribution, conservation technology, policy formulation, and international water treaties.",
+    "Tasks": {
+      "Freshwater Distribution": {
+        "Sensing Approach": "Plan distribution based on current water resource data and usage patterns.",
+        "Intuitive Approach": "Explore innovative water distribution models for future scenarios."
+      },
+      "Conservation Technology": {
+        "Thinking Approach": "Implement technologies proven to reduce water waste and increase efficiency.",
+        "Feeling Approach": "Focus on technologies that also support ecological and community water needs."
+      },
+      "Policy Formulation": {
+        "Judging Approach": "Develop policies with clear guidelines and measurable targets.",
+        "Perceiving Approach": "Create flexible policies that can adapt to changing environmental conditions."
+      },
+      "International Water Treaties": {
+        "Extraverted Actions": "Negotiate treaties through direct diplomatic engagement.",
+        "Introverted Actions": "Prepare detailed analysis and position papers for treaty negotiations."
+      }
+    }
+  },
+  {
+    "Name": "Exoplanet Colonization Strategy",
+    "Context": "Participants strategize the colonization of an exoplanet, covering aspects like terraforming, sustainable habitats, interstellar travel logistics, and sociocultural adaptation.",
+    "Tasks": {
+      "Terraforming": {
+        "Sensing Approach": "Plan terraforming based on existing knowledge of planetary science.",
+        "Intuitive Approach": "Innovate with untested but promising terraforming theories and methods."
+      },
+      "Sustainable Habitats": {
+        "Thinking Approach": "Design habitats prioritizing resource efficiency and functionality.",
+        "Feeling Approach": "Ensure habitats are conducive to mental health and community building."
+      },
+      "Interstellar Travel Logistics": {
+        "Judging Approach": "Organize travel logistics with detailed planning and risk management.",
+        "Perceiving Approach": "Develop flexible logistics plans that can adapt to unforeseen challenges."
+      },
+      "Sociocultural Adaptation": {
+        "Extraverted Actions": "Facilitate cultural exchange programs and community forums.",
+        "Introverted Actions": "Research and develop policies for cultural integration and adaptation."
+      }
+    }
+  },
+  {
+    "Name": "Advanced Robotics and AI Lab",
+    "Context": "Teams work in an advanced robotics and AI lab, focusing on robotic design, AI ethics, human-robot interaction, and AI-driven problem-solving.",
+    "Tasks": {
+      "Robotic Design": {
+        "Sensing Approach": "Build robots based on established design principles and functionalities.",
+        "Intuitive Approach": "Experiment with innovative designs and unconventional robotic capabilities."
+      },
+      "AI Ethics": {
+        "Thinking Approach": "Develop AI systems following strict ethical guidelines and logical frameworks.",
+        "Feeling Approach": "Consider the societal impact and moral implications of AI development."
+      },
+      "Human-Robot Interaction": {
+        "Judging Approach": "Design interaction protocols based on structured usability studies.",
+        "Perceiving Approach": "Create adaptable interaction models that evolve with user feedback."
+      },
+      "AI-Driven Problem-Solving": {
+        "Extraverted Actions": "Collaborate on AI solutions with diverse industries and sectors.",
+        "Introverted Actions": "Focus on in-depth AI research to address complex and specific problems."
+      }
+    }
+  },
+  {
+    "Name": "Global Cybersecurity Defense Initiative",
+    "Context": "Participants work on a global initiative to strengthen cybersecurity defenses, involving threat analysis, system security enhancements, international cybersecurity policies, and public awareness campaigns.",
+    "Tasks": {
+      "Threat Analysis": {
+        "Sensing Approach": "Analyze cybersecurity threats based on historical data and known attack patterns.",
+        "Intuitive Approach": "Predict future cybersecurity threats using advanced modeling and trend analysis."
+      },
+      "System Security Enhancements": {
+        "Thinking Approach": "Upgrade security systems based on technical efficiency and proven methods.",
+        "Feeling Approach": "Consider the impact of security measures on user privacy and trust."
+      },
+      "International Cybersecurity Policies": {
+        "Judging Approach": "Develop stringent and detailed international cybersecurity policies.",
+        "Perceiving Approach": "Adapt policies to the rapidly evolving nature of cyber threats and technologies."
+      },
+      "Public Awareness Campaigns": {
+        "Extraverted Actions": "Lead dynamic public outreach and education initiatives.",
+        "Introverted Actions": "Create informative digital content and resource guides for cybersecurity awareness."
+      }
+    }
+  },
+  {
+    "Name": "Revolutionary Green Building Project",
+    "Context": "Teams design a revolutionary green building, focusing on sustainable architecture, energy-efficient systems, green space integration, and community impact assessment.",
+    "Tasks": {
+      "Sustainable Architecture": {
+        "Sensing Approach": "Design buildings using established green architecture principles.",
+        "Intuitive Approach": "Explore innovative architectural designs that push sustainability boundaries."
+      },
+      "Energy-Efficient Systems": {
+        "Thinking Approach": "Implement systems based on their proven energy-saving performance.",
+        "Feeling Approach": "Focus on systems that enhance the building's environmental harmony and aesthetic value."
+      },
+      "Green Space Integration": {
+        "Judging Approach": "Plan green spaces with specific environmental goals and functionality.",
+        "Perceiving Approach": "Create adaptable green spaces that evolve with community needs."
+      },
+      "Community Impact Assessment": {
+        "Extraverted Actions": "Engage with the community through workshops and feedback sessions.",
+        "Introverted Actions": "Conduct detailed impact studies and community surveys."
+      }
+    }
+  },
+  {
+    "Name": "Interdisciplinary Space Science Program",
+    "Context": "Participants develop an interdisciplinary space science program, covering astrophysics research, educational outreach, technology development, and collaborative international missions.",
+    "Tasks": {
+      "Astrophysics Research": {
+        "Sensing Approach": "Conduct research based on established astrophysical theories and methods.",
+        "Intuitive Approach": "Investigate new and unexplored aspects of space science."
+      },
+      "Educational Outreach": {
+        "Thinking Approach": "Develop educational programs based on scientific accuracy and curriculum standards.",
+        "Feeling Approach": "Create programs that inspire and engage diverse audiences with space science."
+      },
+      "Technology Development": {
+        "Judging Approach": "Develop space technology with defined objectives and rigorous testing.",
+        "Perceiving Approach": "Pursue innovative technology projects that adapt to new scientific discoveries."
+      },
+      "Collaborative International Missions": {
+        "Extraverted Actions": "Coordinate with international space agencies for joint missions.",
+        "Introverted Actions": "Focus on the detailed planning and analysis of collaborative missions."
+      }
+    }
+  },
+  {
+    "Name": "Global Cultural Heritage Preservation",
+    "Context": "Teams work on a global project for cultural heritage preservation, involving restoration techniques, digital archiving, public education, and international cooperation.",
+    "Tasks": {
+      "Restoration Techniques": {
+        "Sensing Approach": "Apply traditional restoration methods to preserve cultural sites.",
+        "Intuitive Approach": "Utilize cutting-edge technology for innovative restoration approaches."
+      },
+      "Digital Archiving": {
+        "Thinking Approach": "Create digital archives with an emphasis on accuracy and comprehensiveness.",
+        "Feeling Approach": "Focus on digital storytelling to bring cultural heritage to a wider audience."
+      },
+      "Public Education": {
+        "Judging Approach": "Develop structured educational programs about cultural heritage.",
+        "Perceiving Approach": "Adapt educational content to reflect diverse cultural perspectives and histories."
+      },
+      "International Cooperation": {
+        "Extraverted Actions": "Form partnerships with global organizations for heritage preservation.",
+        "Introverted Actions": "Conduct in-depth research to support international preservation efforts."
+      }
+    }
+  },
+  {
+    "Name": "Advanced Nanotechnology Research Institute",
+    "Context": "Participants establish an advanced nanotechnology research institute, focusing on nanomaterial development, medical applications, environmental impacts, and ethical considerations.",
+    "Tasks": {
+      "Nanomaterial Development": {
+        "Sensing Approach": "Develop nanomaterials based on proven scientific principles and existing technologies.",
+        "Intuitive Approach": "Experiment with groundbreaking nanomaterials that have potential transformative applications."
+      },
+      "Medical Applications": {
+        "Thinking Approach": "Focus on nanotechnology applications that enhance medical diagnosis and treatment efficiency.",
+        "Feeling Approach": "Prioritize nanotechnology developments that improve patient care and quality of life."
+      },
+      "Environmental Impacts": {
+        "Judging Approach": "Assess environmental impacts using strict regulatory frameworks and guidelines.",
+        "Perceiving Approach": "Adapt research and development to minimize ecological footprints and promote sustainability."
+      },
+      "Ethical Considerations": {
+        "Extraverted Actions": "Engage in public discussions and ethical debates about nanotechnology.",
+        "Introverted Actions": "Conduct thorough ethical analyses and publish comprehensive guidelines."
+      }
+    }
+  },
+  {
+    "Name": "Orbital Debris Mitigation Program",
+    "Context": "Participants develop a program to mitigate orbital debris, focusing on debris tracking systems, removal technologies, international space policy, and preventive measures.",
+    "Tasks": {
+      "Debris Tracking Systems": {
+        "Sensing Approach": "Enhance tracking systems based on existing radar and surveillance technologies.",
+        "Intuitive Approach": "Innovate with new sensor technologies and tracking algorithms."
+      },
+      "Removal Technologies": {
+        "Thinking Approach": "Develop debris removal solutions based on technical feasibility and safety.",
+        "Feeling Approach": "Prioritize removal methods that minimize the risk to existing space assets and crew."
+      },
+      "International Space Policy": {
+        "Judging Approach": "Formulate strict policies and agreements for space debris management.",
+        "Perceiving Approach": "Adapt policies to evolving space activities and technological advancements."
+      },
+      "Preventive Measures": {
+        "Extraverted Actions": "Collaborate with international space agencies and companies to establish preventive protocols.",
+        "Introverted Actions": "Research and propose long-term strategies for sustainable space operations."
+      }
+    }
+  },
+  {
+    "Name": "Virtual Reality Enhanced Education System",
+    "Context": "Teams work on integrating virtual reality (VR) into education systems, involving curriculum development, VR content creation, teacher training, and student engagement analysis.",
+    "Tasks": {
+      "Curriculum Development": {
+        "Sensing Approach": "Incorporate VR into existing curriculum frameworks.",
+        "Intuitive Approach": "Redefine educational curriculum around VR-based experiential learning."
+      },
+      "VR Content Creation": {
+        "Thinking Approach": "Produce VR content focused on educational effectiveness and accuracy.",
+        "Feeling Approach": "Create immersive VR experiences that are emotionally engaging and inspiring for students."
+      },
+      "Teacher Training": {
+        "Judging Approach": "Develop structured training programs for teachers on VR technology.",
+        "Perceiving Approach": "Implement flexible and adaptive training methods tailored to individual teacher needs."
+      },
+      "Student Engagement Analysis": {
+        "Extraverted Actions": "Conduct interactive student feedback sessions and focus groups.",
+        "Introverted Actions": "Analyze student performance data and engagement metrics."
+      }
+    }
+  },
+  {
+    "Name": "Automated Urban Farming Initiative",
+    "Context": "Participants plan an automated urban farming initiative, focusing on vertical farming technology, crop optimization, community integration, and sustainable resource management.",
+    "Tasks": {
+      "Vertical Farming Technology": {
+        "Sensing Approach": "Implement proven vertical farming techniques and systems.",
+        "Intuitive Approach": "Explore innovative farming technologies and experimental agricultural methods."
+      },
+      "Crop Optimization": {
+        "Thinking Approach": "Select and cultivate crops based on yield efficiency and nutritional value.",
+        "Feeling Approach": "Focus on growing crops that promote community health and dietary diversity."
+      },
+      "Community Integration": {
+        "Judging Approach": "Develop urban farms with predefined community interaction models.",
+        "Perceiving Approach": "Design farms that adapt to community feedback and evolving urban needs."
+      },
+      "Sustainable Resource Management": {
+        "Extraverted Actions": "Engage with environmental experts and local authorities for resource planning.",
+        "Introverted Actions": "Conduct thorough analyses of water, energy, and nutrient cycles within urban farms."
+      }
+    }
+  },
+  {
+    "Name": "Global Rare Disease Research Network",
+    "Context": "Teams establish a global network for rare disease research, involving genetic analysis, treatment development, patient advocacy, and international collaboration.",
+    "Tasks": {
+      "Genetic Analysis": {
+        "Sensing Approach": "Study genetic factors of rare diseases using established genomic research methods.",
+        "Intuitive Approach": "Utilize cutting-edge genomic technologies to uncover new insights into rare diseases."
+      },
+      "Treatment Development": {
+        "Thinking Approach": "Focus on developing treatments with proven efficacy and safety.",
+        "Feeling Approach": "Prioritize patient-centered approaches in treatment development, considering quality of life."
+      },
+      "Patient Advocacy": {
+        "Judging Approach": "Organize structured advocacy programs for raising awareness and funding.",
+        "Perceiving Approach": "Adapt advocacy efforts based on patient needs and societal changes."
+      },
+      "International Collaboration": {
+        "Extraverted Actions": "Build partnerships with global research institutions and healthcare organizations.",
+        "Introverted Actions": "Focus on sharing and analyzing research data within the international scientific community."
+      }
+    }
+  }
+]

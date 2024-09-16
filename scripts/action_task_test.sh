@@ -1,0 +1,1 @@
+python run_benchmark.py --model_name Meta-Llama-3-8B --api_base http://10.26.128.34:4945/v1 --template_name role_profile_history --test_name action_task --test_ratio 0.01 --testing_role_nums 1 --max_history 10
