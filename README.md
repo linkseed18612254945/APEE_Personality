@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">APEE - Assessing the Personality Expressions of LLM-driven Role Play
-Agent beyond Self-Perception</h2>
+Agent</h2>
 
 ## Table of Contents
 
