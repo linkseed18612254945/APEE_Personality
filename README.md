@@ -10,7 +10,7 @@ Agent</h2>
 - [Overview](#overview)
 - [Installation](#Installation)
 - [Download](#Download)
-- [Dataset Description](#Dataset)
+- [Description](#Description)
 
 ## Overview
 **APEE** is a new benchmark consisting of 473 instances across three real-world scenario types: practical goal planning, social media behavior, and leaderless group discussions.
@@ -29,7 +29,7 @@ conda activate finfact
 ## Download
 The dataset can be found in the **data**  directory.
 
-## Dataset Description
+## Description
 - **questionnaire_en.json**: The commonly used MBTI questionnaire includes 70 questions along with corresponding options.
 - **scene_thinking.json**: The data used to assess personality traits when RPAs encounters reasoning problems in real-world scenarios.
 - **social_media_tasks.json**: The data used to evaluate how RPA's behavior choices on social media reflect personality traits.
